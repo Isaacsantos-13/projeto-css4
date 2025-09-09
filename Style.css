@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0; 
+}
+
+h1{
+    color: red; /* Adiciona Cor na Letra */
+    background-color: blue; /* Adiciona cor no fundo */
+    font-size: 50px;/* Tamanho da fonte */
+margin: 50px;
+padding: 50px;
+text-transform: uppercase;
+font-weight: bold;
+font-family: monospace; /* estilo da fonte */
+letter-spacing: 5px; /* espaçamento entre letras */
+text-align: center; /* centralizar texto */
+
+border-radius: 10px;
+border: solid black 5px;
+box-shadow: rgba(0, 0, 0, 0.501) 10px 10px 20px;
+
+}
+p {
+    text-align: justify;
+}
